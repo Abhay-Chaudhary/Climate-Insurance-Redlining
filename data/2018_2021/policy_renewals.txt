@@ -1,0 +1,14 @@
+
+Dataset: policy_renewals.csv
+Coverage: 2018-2021
+
+
+'ZIP Code'
+'new_policies': number of new policies underwritten
+'renewed_policies': number of policies renewed
+'company_nonrenewed': number of policies not renewed by insurance company initiative
+'owner_nonrenewed': number of policies not renewed by homeowner initiative
+'pct_nonrenewed_policies': percentage of non-renewed policies from expiring policies 
+'pct_nonrenewed_owner': percentage of non-renewed policies initiated by homeowners
+'pct_nonrenewed_company': percentage of non-renewed policies initiated by insurance companies
+'ratio_new_to_nonrenewed': ratio between non-renewed policies and new policies
