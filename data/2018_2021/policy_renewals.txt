@@ -12,3 +12,7 @@ Coverage: 2018-2021
 'pct_nonrenewed_owner': percentage of non-renewed policies initiated by homeowners
 'pct_nonrenewed_company': percentage of non-renewed policies initiated by insurance companies
 'ratio_new_to_nonrenewed': ratio between non-renewed policies and new policies
+'change_new_policies': percentual growth of new policies
+'change_renewed_policies': percentual growth of renewed policies
+'change_nonrenewed_owner': percentual growth of non-renewed policies initiated by homeowners
+'change_nonrenewed_company': percentual growth of non-renewed policies initiated by insurance companies
