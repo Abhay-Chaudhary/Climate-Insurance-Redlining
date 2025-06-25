@@ -1,9 +1,0 @@
-
-Dataset: housing21.csv
-Coverage: 2022
-
-'ZIP Code'
-'housing_units' - number of housing units in the ZIP code area
-'median_gross_rent' - median gross rent of housing units with cash rent in the ZIP code area
-'median_ownership_cost' - median cost of housing units without mortgage in the ZIP code area
-'median_home_value' - median home value of occupied housing units, owner occupied in the ZIP code area

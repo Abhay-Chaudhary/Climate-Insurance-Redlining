@@ -1,7 +1,0 @@
-dataset: percent_white_population_flat.csv  
-coverge: 2018-2021
-    *data by county expanded to zipcodes*  
-    ZIP: California zipcodes 
-    Avg_Percentage_2018_2021: Average percentage of the population that identifies as of a single race and as white between 2018 and 2021
-    Avg_Change_2018_2021: Average change in percentage points of the population that identifies as white(single-race) per year between 2018 and 2021
-    Total_Change_2018_2021: Total change in percent white population between 2018 and 2021

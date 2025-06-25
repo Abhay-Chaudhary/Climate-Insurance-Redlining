@@ -1,7 +1,0 @@
-dataset: median_incomes_flat.csv 
-coverage: 2018-2021
-    ZIP: California zipcodes  
-    Avg_Median_Income_2018_2021: Average median household income between 2018 and 2021 in 2023 Inflation adjusted USD  
-    Avg_Growth_Rate_2018_2021: Average yearly growth rate in median household income between 2018 and 2021 in decimal points 
-    Total_Growth_2018_2021: Total percent growth in household income from 2018 to 2021  
-
