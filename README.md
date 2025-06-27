@@ -1,12 +1,12 @@
-# Insured or Ignored: Climate Disasters, Home Insurance Access, and Socioeconomic Disparities in the U.S.
+# Who’s Being Priced Out of Protectiont? Predicting FAIR Plan Enrollment in California
 
 ## Group Members
 Leonardo Barleta, Abhay Chaudhary, Allison Lucas, and Tiana Townsend
 
 ## Project Overview
-As climate disasters increase in frequency and intensity, insurance companies across the globe, and in particular, in California, are reassessing risk and, in many cases, withdrawing coverage or raising premiums in high-risk areas. This shift leaves vulnerable populations at greater financial risk and places an additional burden on the California FAIR Plan, which is a fire insurance pool made up of all insurers licensed to offer property and casualty coverage in California. It was created by state law in August 1968 (California Insurance Code §10090 et seq.) as a last-resort insurance option for those who cannot obtain coverage through the regular market.
+California's residential insurance market faces unprecedented disruption as major insurers retreat due to escalating wildfire risk, construction cost increases, and volatile reinsurance markets. State Farm, the state's largest residential insurer, suspended new policy issuance in 2023 and did not renew ~72,000 existing policies. Insurers are now passing higher premiums to consumers and pushing homeowners toward the California FAIR Plan—a state-backed insurance program that provides basic property coverage when traditional insurers refuse to write policies. In Sacramento County, FAIR Plan usage more than doubled in one year. With FAIR Plan resources limited (~$377 M liquidity, as of Jan 2025), regulators and advocates warn of an “uninsurable future” for wildfire-exposed homeowners.
+This analysis examines whether FAIR Plan enrollment patterns and financial liability can be predicted using disaster risk exposure, socioeconomic indicators, and insurance cost metrics. Developing a reliable forecasting model would enable policymakers, community organizations, and homeowners to anticipate coverage gaps, allocate resources proactively, and identify communities vulnerable to insurance market disruption.
 
-This project investigates the relationship between climate risk, demographic and socioeconomic indicators, and insurance coverage patterns across California counties. We aim to identify whether there are patterns of climate-driven redlining, where communities—especially lower-income or historically marginalized groups—are disproportionately losing access to affordable insurance protection.
 
 ## Objectives
 * Analyze geographic and demographic disparities in insurance availability and premiums.
