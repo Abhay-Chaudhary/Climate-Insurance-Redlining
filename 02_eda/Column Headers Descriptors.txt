@@ -1,0 +1,79 @@
+﻿Study coverage (in years): 2018-2021
+
+
+ZIP Code: ZIP code of the geographic region in California.
+FAIR Plan Units: Number of housing units enrolled in the California FAIR Plan.
+% FAIR Plan Units: Percentage of total housing units in a ZIP enrolled in the FAIR Plan.
+Total Exposure ($): Total $ value of underwritten FAIR Plan policies
+% Change - Claims (Fire and Smoke): Percentage change in fire and smoke-related claims over time.
+% Change - Earned Premiums: Percentage change in total earned premiums for insurers.
+% Change - Expiring Policies: Percentage change in the number of expiring policies.
+% Change - Losses (Fire and Smoke): Percentage change in monetary losses due to fire and smoke.
+% Change - New Policies: Percentage change in new insurance policies issued.
+% Change - Nonrenewed Policies: Percentage change in policies not renewed overall.
+% Change - Nonrenewed Policies (by Company): Percentage change in nonrenewals initiated by insurance companies.
+% Change - Nonrenewed Policies (by Owner): Percentage change in nonrenewals initiated by policyholders.
+% Change - Renewed Policies: Percentage change in number of renewed policies.
+% Change - Zillow Home Value: Percentage change in Zillow-estimated home values.
+% Change Median Income: Percentage change in median household income.
+% Change White-only Pop: Percentage change in non-Hispanic white population percentage.
+% Market Units: Percentage of units in the traditional insurance market.
+% Nonrenewed Policies: Percentage of expiring policies that were not renewed.
+% Nonrenewed Policies (by Company): Percentage of nonrenewals initiated by the insurer.
+% Nonrenewed Policies (by Owner): Percentage of nonrenewals initiated by the policyholder.
+All Disasters 10y: Count of state declared disasters in past 10 years.
+All Disasters 1y: Count of state declared disasters in past year.
+All Disasters 3y: Count of state declared disasters in past 3 years.
+All Disasters 5y: Count of state declaredl disasters in past 5 years.
+Avg % White-only Pop: Average percentage of white population over the study period.
+Avg Median Income: Average median income over the study period.
+Claims (Fire and Smoke): Total number of claims related to fire and smoke.
+Earned Premium ($): Total insurance premiums earned by insurers.
+Expiring Policies: Total number of policies set to expire over the study period.
+Fire Disasters 10y: Count of fire-specific disasters in past 10 years.
+Fire Disasters 1y: Fire-specific disasters in past year.
+Fire Disasters 3y: Fire-specific disasters in past 3 years.
+Fire Disasters 5y: Fire-specific disasters in past 5 years.
+Housing Units: Total number of housing units in a given ZIP code according to Census.
+Losses (Fire and Smoke) ($): Total monetary losses paid by the insurance companies due to fire and smoke.
+Median Gross Rent ($): Median gross rent in dollars.
+Median Home Value - Census ($): Home value from Census data.
+Median Owner Cost ($): Monthly owner cost excluding mortgage.
+New Policies: Number of new insurance policies issued.
+Nonrenewed Policies: Number of policies not renewed.
+Nonrenewed Policies (by Company): Number of policies not renewed by insurer.
+Nonrenewed Policies (by Owner): Number of policies not renewed by homeowner.
+Renewed Policies: Number of policies that were renewed.
+Total Res Units: Number of residential units in FAIR plan data.
+Voluntary Market Units: Units covered by traditional insurance.
+Zillow Home Value 2018 ($): Zillow Housing Value Index denoting typical home value for 2018.
+Zillow Home Value 2019 ($): Zillow Housing Value Index denoting typical home value for 2019.
+Zillow Home Value 2020 ($): Zillow Housing Value Index denoting typical home value for 2020.
+Zillow Home Value 2021 ($): Zillow Housing Value Index denoting typical home value for 2021.
+Zillow Mean Home Value ($): Average Zillow home value over study period.
+Losses to Premium Ratio: Ratio of paid losses to earned premiums.
+Renewed to Nonrenewed Ratio: Ratio of number of renewed policies to nonrenewed ones.
+New and Renewed to Nonrenewed Ratio: Ratio of number of new+renewed policies to nonrenewed ones.
+New and Renewed to Total Units Ratio: Ratio of housing units that are newly insured or renewed to total residential units.
+Log of Average Median Income: Log-transformed average median income.
+Housing Value to Median Income Ratio: Ratio of home value to median income.
+Housing Value to Log Median Income Ratio: Ratio of home value to log income.
+Fire Smoke Claims to Total Units Ratio: Number of fire and smoke claims divided by total housing units.
+New and Renewed to Nonrenewed and Income Growth Product: Product of ratio of number of insurance covered residential units to total units and income growth
+New and Renewed to Nonrenewed and Income Growth Ratio: Ratio of number of insurance covered residential units to total units and income growth
+Losses to Company Nonrenewed Ratio: Losses relative to company-initiated nonrenewals.
+Losses to Owner Nonrenewed Ratio: Losses relative to owner-initiated nonrenewals.
+Change in Renewed to Income Growth Ratio: Change in renewal rates relative to income growth.
+Change in Nonrenewed to Income Growth Ratio: Change in nonrenewals relative to income growth.
+Growth in Losses to All Disasters 3yr Ratio: Loss growth vs. all disasters (3 years).
+Growth in Losses to All Disasters 5yr Ratio: Loss growth vs. all disasters (5 years).
+Growth in Losses to All Disasters 10yr Ratio: Loss growth vs. all disasters (10 years).
+Growth in Losses to Fire Disasters 3yr Ratio: Loss growth vs. fire disasters (3 years).
+Growth in Losses to Fire Disasters 5yr Ratio: Loss growth vs. fire disasters (5 years).
+Growth in Losses to Fire Disasters 10yr Ratio: Loss growth vs. fire disasters (10 years).
+Premium to Exposure Ratio: Premiums as a fraction of exposure.
+Nonrenewal Rate: Rate at which policies are not renewed.
+Loss Burden per Unit: Losses paid by insurance companies per housing unit.
+Loss Burden per Exposure: Losses paid by insurance companies as a share of total exposure.
+Premium Adequacy: Premiums relative to paid losses.
+Renewal Resilience: Proportion of policies successfully renewed.
