@@ -1,10 +1,10 @@
-# Who’s Being Priced Out of Protectiont? Predicting FAIR Plan Enrollment in California
+# Who’s Being Priced Out of Protection? Predicting FAIR Plan Enrollment in California
 
 ## Group Members
 Leonardo Barleta, Abhay Chaudhary, Allison Lucas, and Tiana Townsend
 
 ## Project Overview
-California's residential insurance market faces unprecedented disruption as major insurers retreat due to escalating wildfire risk, construction cost increases, and volatile reinsurance markets. State Farm, the state's largest residential insurer, suspended new policy issuance in 2023 and did not renew ~72,000 existing policies. Insurers are now passing higher premiums to consumers and pushing homeowners toward the California FAIR Plan—a state-backed insurance program that provides basic property coverage when traditional insurers refuse to write policies. In Sacramento County, FAIR Plan usage more than doubled in one year. With FAIR Plan resources limited (~$377 M liquidity, as of Jan 2025), regulators and advocates warn of an “uninsurable future” for wildfire-exposed homeowners.
+California's residential insurance market faces unprecedented disruption as major insurers retreat due to escalating wildfire risk, construction cost increases, and volatile reinsurance markets. State Farm, the state's largest residential insurer, suspended new policy issuance in 2023 and did not renew about 72,000 existing policies. Insurers are now passing higher premiums to consumers and pushing homeowners toward the California FAIR Plan—a state-backed insurance program that provides basic property coverage when traditional insurers refuse to write policies. In Sacramento County, FAIR Plan usage more than doubled in one year. With FAIR Plan resources limited (about $377 M liquidity, as of Jan 2025), regulators and advocates warn of an “uninsurable future” for wildfire-exposed homeowners.
 This analysis examines whether FAIR Plan enrollment patterns and financial liability can be predicted using disaster risk exposure, socioeconomic indicators, and insurance cost metrics. Developing a reliable forecasting model would enable policymakers, community organizations, and homeowners to anticipate coverage gaps, allocate resources proactively, and identify communities vulnerable to insurance market disruption.
 
 
