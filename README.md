@@ -1,6 +1,6 @@
 # Who’s Being Priced Out of Protection? Predicting FAIR Plan Enrollment in California
 
-## Group Members
+### Group Members
 Leonardo Barleta, Abhay Chaudhary, Allison Lucas, and Tiana Townsend
 
 ### Introduction
