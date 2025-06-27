@@ -1,26 +1,26 @@
 Feature,P (Exposure)
-New and Renewed to Total Units Ratio,8.727446159754785e-23
-Housing Value to Median Income Ratio,4.432414923449445e-09
-Premium to Exposure Ratio,2.2205038374221308e-08
-Nonrenewal Rate,2.2924458821167877e-08
-Renewal Resilience,2.292445882116823e-08
-New and Renewed to Nonrenewed Ratio,6.030997539816306e-08
-Losses to Owner Nonrenewed Ratio,5.440716976311444e-05
-Housing Value to Log Median Income Ratio,5.9060534104027316e-05
-Loss Burden per Exposure,9.51452685350457e-05
-Loss Burden per Unit,9.51452685350457e-05
-New and Renewed to Nonrenewed and Income Growth Product,0.0011305438354832697
-Losses to Premium Ratio,0.0014358242604965625
-Losses to Company Nonrenewed Ratio,0.0037081651022751357
-Fire Smoke Claims to Total Units Ratio,0.007146097796195762
-Change in Renewed to Income Growth Ratio,0.08755876707995934
-Change in Nonrenewed to Income Growth Ratio,0.1367728275470159
-Growth in Losses to Fire Disasters 5yr Ratio,0.3267936991473891
-Growth in Losses to Fire Disasters 10yr Ratio,0.33223030405613846
-Log of Average Median Income,0.34149769326293306
-Growth in Losses to Fire Disasters 3yr Ratio,0.3584295125456917
-Growth in Losses to All Disasters 10yr Ratio,0.5196538387713932
-Growth in Losses to All Disasters 3yr Ratio,0.5421454398305804
-New and Renewed to Nonrenewed and Income Growth Ratio,0.5691016875683136
-Growth in Losses to All Disasters 5yr Ratio,0.5786615038601153
-Premium Adequacy,0.7157237545583295
+New and Renewed to Total Units Ratio,1.055139401249393e-21
+Housing Value to Median Income Ratio,7.921423150228003e-09
+Premium to Exposure Ratio,1.7955992581980783e-08
+Renewal Resilience,3.33374925201327e-08
+Nonrenewal Rate,3.3337492520133585e-08
+New and Renewed to Nonrenewed Ratio,8.52156602945077e-08
+Housing Value to Log Median Income Ratio,3.212681982596527e-05
+Losses to Owner Nonrenewed Ratio,8.157188512915908e-05
+Loss Burden per Exposure,0.00013848689539976998
+Loss Burden per Unit,0.00013848689539976998
+New and Renewed to Nonrenewed and Income Growth Product,0.000718138726663602
+Losses to Premium Ratio,0.001973886074068328
+Losses to Company Nonrenewed Ratio,0.004636592591393664
+Fire Smoke Claims to Total Units Ratio,0.009973853654853551
+Change in Renewed to Income Growth Ratio,0.09456702895530604
+Change in Nonrenewed to Income Growth Ratio,0.14389364250946188
+Log of Average Median Income,0.2580526537600895
+Growth in Losses to Fire Disasters 5yr Ratio,0.35075986931540026
+Growth in Losses to Fire Disasters 10yr Ratio,0.3568804007332556
+Growth in Losses to Fire Disasters 3yr Ratio,0.3840869670591592
+Growth in Losses to All Disasters 10yr Ratio,0.5319320640976016
+Growth in Losses to All Disasters 3yr Ratio,0.5535448611319711
+Growth in Losses to All Disasters 5yr Ratio,0.5856145511555555
+New and Renewed to Nonrenewed and Income Growth Ratio,0.6190113753620567
+Premium Adequacy,0.8215500425017143
