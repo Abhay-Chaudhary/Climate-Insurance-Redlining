@@ -33,6 +33,7 @@ The project was built using Python 3.11+. Required packages include:
 * `scikit-learn`
 * `xgboost`
 * `geopandas`
+* 'pathlib'
 
 ## Deliverables
 - ``: Detailed overview of findings, methods, and policy implications.
