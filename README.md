@@ -9,10 +9,10 @@ This analysis examines whether FAIR Plan enrollment patterns and financial liabi
 ### Data Collection
 We compiled a comprehensive dataset combining FAIR Plan data for 2022 with publicly available information about residential insurance policies, housing prices, socioeconomic conditions, and climate-related disasters. These data was retrieved from the following sources (a longer description of the data sources is available on the data_prep.ipynb notebook):
 
-    * American Community Survey - reported income, race, and housing conditions.
-    * Zillow Housing Value Index
-    * Governor-proclaimed disasters from 1991 to present.
-    * California Department of Insurance residential policy data, based on insurance company bi-annual reports.
+* American Community Survey - reported income, race, and housing conditions.
+* Zillow Housing Value Index
+* Governor-proclaimed disasters from 1991 to present.
+* California Department of Insurance residential policy data, based on insurance company bi-annual reports.
     
 The primary geographic unit of analysis is the ZIP Code Tabulation Area (ZCTA), which aligns with the resolution of most available datasets. We predict the usage of FAIR Plan policies in a given ZIP Code, measured in percentage of residential units. As a secondary target, we also estimate the financial impact of the program’s expansion, based on total exposure covered in FAIR Plan policies. This variable measures the maximum potential loss California could face in case of climate disaster.
 We focus on the 2018–2021 period, where data from multiple sources are available and comparable. Given that detailed FAIR Plan data is only available for 2022, we computed the rate of growth of a given indicator (e.g., growth in house prices) for the four previous years for some key variables.
@@ -36,8 +36,10 @@ The project was built using Python 3.11+. Required packages include:
 * `xgboost`
 * `geopandas`
 * `pathlib`
+* `scipy.stats`
 
 ## Deliverables
 - ``: Detailed overview of findings, methods, and policy implications.
 - ``: All analysis and modeling steps in reproducible Jupyter Notebooks.
-- `presentation_slides.pdf`: Summary slides for project presentation.
+- `Who's Being Priced Out of Protection - Slides.pdf`: Summary slides for project presentation.
+- `Who's Being Priced Out of Protection - Executive Summary.pdf`: Project Summary Document.
