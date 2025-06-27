@@ -1,45 +1,45 @@
 Feature,Importance (FAIR)
-% Market Units,0.5823360881592176
-Nonrenewed Policies (by Company),0.1167870622029948
-Total Res Units,0.10775131603664564
-Housing Units,0.027226818573152376
-New Policies,0.02675505503222769
-Expiring Policies,0.018453043434392618
-Avg Median Income,0.01489743315169686
-Voluntary Market Units,0.012234821954889978
-Renewed Policies,0.011830711562657742
-Nonrenewed Policies (by Owner),0.006718354564618685
-Claims (Fire and Smoke),0.006558071709674657
-% Change - Expiring Policies,0.005773964548974658
-Median Owner Cost ($),0.005008713486780092
-% Change - Earned Premiums,0.004802472836566659
-% Change - Losses (Fire and Smoke),0.004274393618223955
-% Nonrenewed Policies (by Company),0.0033333369987825685
-% Change - Renewed Policies,0.0031044042915320843
-% Nonrenewed Policies (by Owner),0.003093722886734444
-% Change - Claims (Fire and Smoke),0.002852108008499532
-% Change Median Income,0.00228488580009865
-Earned Premium ($),0.002146780197130915
-% Change - New Policies,0.0016976287252099312
-Losses (Fire and Smoke) ($),0.001691934318944494
-Median Gross Rent ($),0.0016501589010811358
-% Change - Nonrenewed Policies,0.0014947077058696692
-% Change - Nonrenewed Policies (by Owner),0.0013900466545809346
-% Change - Nonrenewed Policies (by Company),0.001251647841480699
-Zillow Mean Home Value ($),0.0011812031544475344
-Zillow Home Value 2020 ($),0.001085112000240759
-Zillow Home Value 2019 ($),0.00100099339465868
-% Change - Zillow Home Value,0.0009745104246432814
-Zillow Home Value 2021 ($),0.000805162815307663
-Zillow Home Value 2018 ($),0.0007973270451604407
-Median Home Value - Census ($),0.0006038953233848867
-Fire Disasters 10y,0.0003611886909953236
-Fire Disasters 5y,0.00016766502514717525
-All Disasters 10y,0.00011533549219397643
-Fire Disasters 3y,6.955185323255333e-05
-Avg % White-only Pop,6.786834364632821e-05
-All Disasters 3y,6.71017250610347e-05
-All Disasters 5y,3.207710260829506e-05
-% Change White-only Pop,2.8393052335506582e-05
-Fire Disasters 1y,2.406971468497803e-05
-All Disasters 1y,9.190868924939243e-06
+% Market Units,0.5793729710770517
+Nonrenewed Policies (by Company),0.10818178102390354
+Total Res Units,0.10451190941039694
+Housing Units,0.038732540259251984
+New Policies,0.023988441022373748
+Expiring Policies,0.019298555316356564
+Avg Median Income,0.015646604018956227
+Voluntary Market Units,0.012479575039390416
+Renewed Policies,0.01162300610948327
+Claims (Fire and Smoke),0.010024343068536076
+Nonrenewed Policies (by Owner),0.007148086586572549
+% Change - Expiring Policies,0.00525466748895572
+% Change - Earned Premiums,0.0051833362114176865
+Median Owner Cost ($),0.0048920099518255265
+% Change - Losses (Fire and Smoke),0.003911808868988777
+% Nonrenewed Policies (by Company),0.003776746407782492
+% Nonrenewed Policies (by Owner),0.0032105552879191646
+% Change - Nonrenewed Policies,0.002333403402681371
+% Change - New Policies,0.0022906709019928874
+Earned Premium ($),0.002194775129294771
+% Change - Renewed Policies,0.0021945173517059174
+% Change Median Income,0.001918359395874008
+% Change - Nonrenewed Policies (by Company),0.0016715204316677533
+% Change - Claims (Fire and Smoke),0.001613593455387692
+Zillow Home Value 2019 ($),0.00154156582683061
+Median Gross Rent ($),0.0014241308088699355
+Losses (Fire and Smoke) ($),0.0012388968985400921
+Zillow Home Value 2021 ($),0.0010996255496762408
+Zillow Mean Home Value ($),0.0010451080829661083
+Zillow Home Value 2020 ($),0.001039269048789696
+% Change - Zillow Home Value,0.0009011593479206252
+% Change - Nonrenewed Policies (by Owner),0.0007391115066468231
+Avg % White-only Pop,0.0005790562198613709
+Median Home Value - Census ($),0.0004043937362230547
+Zillow Home Value 2018 ($),0.0004001954609877303
+All Disasters 1y,0.00014395261216663906
+Fire Disasters 3y,0.00010243644942958604
+Fire Disasters 5y,7.704998111083677e-05
+All Disasters 3y,6.732852596411227e-05
+All Disasters 5y,6.511723716617313e-05
+Fire Disasters 10y,5.58000412712549e-05
+All Disasters 10y,5.0981106606771254e-05
+% Change White-only Pop,4.10210411174343e-05
+Fire Disasters 1y,6.777505365064203e-07
