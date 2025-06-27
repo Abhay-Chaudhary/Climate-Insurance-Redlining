@@ -1,46 +1,65 @@
 Feature,Importance (FAIR)
-% Market Units,0.5856286555406027
-Total Res Units,0.1112578614166104
-Nonrenewed Policies (by Company),0.09103339695412874
-Housing Units,0.04530118299751137
-New Policies,0.029701120342909674
-Renewed Policies,0.01539501458355327
-Expiring Policies,0.013391793892815515
-Voluntary Market Units,0.012505218173940394
-Nonrenewed Policies (by Owner),0.009102187728437969
-Avg Median Income,0.008429550607824549
-Claims (Fire and Smoke),0.007641788489882966
-% Change - Expiring Policies,0.006947831701015614
-Median Owner Cost ($),0.0060968371005943114
-% Nonrenewed Policies (by Company),0.005839008195160773
-% Change - Losses (Fire and Smoke),0.0033570633650724466
-% Change - New Policies,0.003204780166821579
-% Change - Earned Premiums,0.0030666273928862697
-% Change Median Income,0.002534108567744074
-Median Owner Cost ($) - 2019,0.0024804337769790217
-% Change - Claims (Fire and Smoke),0.002375121532466403
-% Change - Renewed Policies,0.002187160336998075
-Median Gross Rent ($),0.0019048985588389956
-% Change - Nonrenewed Policies (by Company),0.0016579578000639292
-% Change - Zillow Home Value,0.0016087796430316304
-Losses (Fire and Smoke) ($),0.0013442818017487092
-% Change - Owner Cost ($),0.0012926548745027162
-Zillow Mean Home Value ($),0.0012780726981735746
-Earned Premium ($),0.0012407407583243926
-% Nonrenewed Policies (by Owner),0.0011620518357621419
-% Change - Nonrenewed Policies (by Owner),0.0010667521584394118
-Zillow Home Value 2021 ($),0.0006079506765121819
-Median Home Value - Census ($),0.0005644187818411749
-Zillow Home Value 2018 ($),0.0005483364274939864
-Zillow Home Value 2019 ($),0.0005005685660363179
-Zillow Home Value 2020 ($),0.0003186025287785387
-Avg % White-only Pop,0.0002980770377191
-Fire Disasters 3y,9.437749432326632e-05
-Fire Disasters 5y,9.423017462292111e-05
-All Disasters 3y,9.076164660245892e-05
-% Change White-only Pop,7.702693155556297e-05
-All Disasters 10y,6.239123221193025e-05
-Fire Disasters 10y,4.984719937993485e-05
-All Disasters 5y,4.8830673658800325e-05
-All Disasters 1y,3.876170276000882e-05
-Fire Disasters 1y,2.6616609975569313e-05
+% Market Units,0.48648836662242284
+New and Renewed to Total Units Ratio,0.12467674926214357
+Nonrenewed Policies (by Company),0.10072014380396618
+Total Res Units,0.06784654898891486
+Premium to Exposure Ratio,0.05422219664173084
+Housing Units,0.0266876230224048
+New Policies,0.01942743540035428
+Renewed Policies,0.011925313434590629
+Expiring Policies,0.010362360373790626
+Voluntary Market Units,0.00745147811946169
+Claims (Fire and Smoke),0.0071788184463467755
+Nonrenewed Policies (by Owner),0.006229731523503431
+% Nonrenewed Policies (by Company),0.0041684826601310326
+Median Owner Cost ($),0.004152485207624564
+% Change - Expiring Policies,0.004095440899943321
+% Change - Nonrenewed Policies (by Company),0.002355925660693862
+% Change - Owner Cost ($),0.0020586834265814593
+Growth in Losses to All Disasters 3yr Ratio,0.002042717356206906
+New and Renewed to Nonrenewed and Income Growth Ratio,0.0020127634527515757
+% Change - New Policies,0.002012059008714209
+Median Owner Cost ($) - 2019,0.0016749816113746996
+Growth in Losses to All Disasters 10yr Ratio,0.0016564498392601375
+Housing Value to Median Income Ratio,0.0016538460433580479
+% Change - Earned Premiums,0.001583196994265105
+Growth in Losses to Fire Disasters 3yr Ratio,0.0015081731454011308
+Fire Smoke Claims to Total Units Ratio,0.0014871624326749974
+Avg Median Income,0.0014458382398130063
+Earned Premium ($),0.0014394709970783532
+% Change - Claims (Fire and Smoke),0.001384490083226669
+Zillow Home Value 2021 ($),0.0012864419757417866
+% Change - Zillow Home Value,0.0012487128416739815
+Loss Burden per Exposure,0.0012223121531590622
+Growth in Losses to Fire Disasters 5yr Ratio,0.0012104597772039916
+Growth in Losses to All Disasters 5yr Ratio,0.0011984626366743488
+Growth in Losses to Fire Disasters 10yr Ratio,0.0011751886411186735
+New and Renewed to Nonrenewed and Income Growth Product,0.001137313586052328
+Losses to Company Nonrenewed Ratio,0.0011073620777017309
+% Change - Losses (Fire and Smoke),0.0010869263750375943
+Log of Average Median Income,0.0009958421794479778
+% Change - Renewed Policies,0.0009195153593987825
+% Change - Nonrenewed Policies (by Owner),0.0008958402317133067
+Losses to Premium Ratio,0.000893743734638248
+Losses (Fire and Smoke) ($),0.0008254065928063092
+Median Gross Rent ($),0.0007913073957894981
+Premium Adequacy,0.0007885921397799634
+Zillow Home Value 2020 ($),0.0007737455398666498
+Median Home Value - Census ($),0.0007596686919455566
+Change in Nonrenewed to Income Growth Ratio,0.0007342973042972895
+% Change Median Income,0.0006334543519021325
+Zillow Home Value 2019 ($),0.0006120251799359252
+Loss Burden per Unit,0.0006087749940747058
+Nonrenewal Rate,0.0005720516185484863
+Change in Renewed to Income Growth Ratio,0.0005515304100065519
+Housing Value to Log Median Income Ratio,0.0005053755129270061
+% Nonrenewed Policies (by Owner),0.0004883629783006956
+Losses to Owner Nonrenewed Ratio,0.00047607004392453923
+Zillow Home Value 2018 ($),0.0004643363010017627
+Renewal Resilience,0.0004207821809753373
+New and Renewed to Nonrenewed Ratio,0.0004032922384533754
+Zillow Mean Home Value ($),0.0003854864145728688
+% Change White-only Pop,0.00017009389249228365
+Avg % White-only Pop,7.651120203961202e-05
+All Disasters 1y,4.956472816827999e-05
+Fire Disasters 1y,7.440871907710251e-06
